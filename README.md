@@ -29,7 +29,7 @@ Users make investment decisions in **real historical scenarios** (e.g., Apple â€
 ---
 
 ##  Prototype
-https://www.figma.com/make/v22xxnos6DyF6QSMHlMl2j/Stock-Heroes?t=BMnPSjESD2nU1dtw-1   
+https://www.figma.com/make/DPL2uiwUPToJZBg2ktyLry/Stock-Heroes--Community-?t=26DM0blXbmivT8b2-1    
 
 This is a **highâ€‘fidelity interactive prototype** built for demonstration purposes only.
 
