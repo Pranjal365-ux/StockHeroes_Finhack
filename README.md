@@ -62,7 +62,7 @@ This helps users understand **decision quality**, not luck.
 ---
 
 ##  Figma Prototype
-**https://www.figma.com/design/v22xxnos6DyF6QSMHlMl2j/Splash-Screen-Design.**
+**https://www.figma.com/community/file/1585615203066187229**
 
 The prototype includes:
 - Onboarding flow
