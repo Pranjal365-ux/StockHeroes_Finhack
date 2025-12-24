@@ -15,11 +15,11 @@ The app combines interactive learning, quizzes, virtual trading, and historical 
 
 ##  Solution
 Stock Heroes provides:
-- 🎓 Beginner & Intermediate modes  
-- 📘 Learning modules with quizzes  
-- 🕒 Historical Time Arenas (past market scenarios)  
-- 💰 Virtual trading with fake money  
-- 📊 Portfolio tracking & leaderboards  
+-  Beginner & Intermediate modes  
+-  Learning modules with quizzes  
+-  Historical Time Arenas (past market scenarios)  
+-  Virtual trading with fake money  
+-  Portfolio tracking & leaderboards  
 
 ---
 
