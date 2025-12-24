@@ -55,7 +55,7 @@ This helps users understand **decision quality, not luck**.
 ---
 
 ##  Prototype
-👉 https://www.figma.com/PASTE_YOUR_FILE_LINK_HERE
+https://www.figma.com/PASTE_YOUR_FILE_LINK_HERE](https://www.figma.com/make/v22xxnos6DyF6QSMHlMl2j/Stock-Heroes?t=BMnPSjESD2nU1dtw-1
 
 This is a **high‑fidelity interactive prototype** designed to demonstrate:
 - User flow  
