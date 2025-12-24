@@ -1,7 +1,7 @@
 # 📈 Stock Heroes – Gamified Stock Market Learning App
 
 Stock Heroes is a **gamified, educational stock market learning app** designed to help beginners and intermediate users understand investing **without the fear of losing real money**.
-
+ 
 The app combines interactive learning, quizzes, virtual trading, and historical market simulations to build confidence through practice.
 
 ---
