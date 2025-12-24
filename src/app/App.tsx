@@ -1,4 +1,4 @@
-import { useState } from 'react';
+ import { useState } from 'react';
 import SplashScreen from './components/SplashScreen';
 import ModeSelection from './components/ModeSelection';
 import LearningModule from './components/LearningModule';
